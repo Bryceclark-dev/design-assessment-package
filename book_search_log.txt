@@ -1,0 +1,12 @@
+Process Starting
+GET Response Code :: 200
+The Hobbit|J.R.R. Tolkien|9780871294272|[Juvenile fiction, Bilbo Baggins (Fictitious character), Middle Earth (Imaginary place), Fiction]
+GET Response Code :: 200
+Dune|Frank Herbert|0575074906|[Dune (Imaginary place), Fiction, Fiction in English, Science Fiction, Science fiction, Dune (imaginary place), fiction, Fiction, science fiction, general, Fiction, fantasy, general, American Science fiction, Reading Level-Grade 7, Reading Level-Grade 9, Reading Level-Grade 8, Reading Level-Grade 11, Reading Level-Grade 10, Reading Level-Grade 12, Accessible book, Protected DAISY]
+GET Response Code :: 200
+The Nonsense Book|Mr. Myzlplk||[]
+GET Response Code :: 200
+The Cat in the Hat|Dr. Seuss|0395017750|[Dr. Seuss, Cat in the Hat, Children's, Books, Stories, Fiction, Rhymes, Rhyming, Play, Alphabet, Fantasy, Juvenile fiction, Cat, Hat, Cats, Stories in rhyme, Humorous stories, Picture books, Nonsense verses, Amusements, Pictorial works, Readers, Children's fiction, Cats, fiction, Cat in the hat (fictitious character), fiction, Large type books, Readers (Primary), Readers (Elementary), Accessible book, Protected DAISY]
+GET Response Code :: 200
+The Art of War|Sun Tzu|9789176376461|[Military art and science -- Early works to 1800, War -- Early works to 1800]
+Process complete
